@@ -20,6 +20,11 @@
 	"Flag A2",
 	"Clear B2",
 	"Flag C2",
-	"Clear C1"
+	"Clear C1",
+	"Clear D1",
+	"Clear D2",
+	"Clear E1",
+	"Flag E2",
+	"End"
   ]
 }
