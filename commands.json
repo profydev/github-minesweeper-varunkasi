@@ -16,6 +16,10 @@
 	"Flag C7",
 	"Clear C8",
 	"Flag D8",
-	"Clear E8"
+	"Clear E8",
+	"Flag A2",
+	"Clear B2",
+	"Flag C2",
+	"Clear C1"
   ]
 }
